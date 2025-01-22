@@ -76,6 +76,7 @@ async function GeneratePromptBasedOnQuery(query: string) {
       }
     )
     const embedding = await response.json()
+    console.log(embedding)
     console.log('response: ', embedding)
     return embedding.result.rows[0]['?column?']
   } catch (error) {
