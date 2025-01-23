@@ -64,7 +64,7 @@ async function GeneratePromptBasedOnQuery(query: string) {
   ;('use server')
   try {
     const response = await fetch(
-      'https://oluah-backend.onrender.com/embedQuery',
+      'https://oluah-backend-cp8d.onrender.com/embedQuery',
 
       {
         method: 'POST',
