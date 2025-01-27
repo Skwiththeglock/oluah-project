@@ -19,7 +19,7 @@ export async function Header() {
             Book Recommendation System
             <IconSparkles className="inline mr-0 ml-0.5 w-4 sm:w-5 mb-1" />
             <span className="text-xs ml-2 font-normal text-muted-foreground">
-              By Ugochukwu Oluah for my final year project
+              By Ezeozue Chidinma Ifeoma for my final year project
             </span>
           </span>
         </Link>
