@@ -39,7 +39,7 @@ export function EmptyScreen({
         {/* <h1 className="mb-2 text-lg font-semibold">Welcome Weather AI</h1> */}
         <span className="text-2xl flex items-center my-5">
           {/* <span className="text-lg font-semibold">Weather</span> */}
-          Book recommendation System
+          Book recommender System
           <IconSparkles className="inline mr-0 ml-0.5 w-4 sm:w-5 mb-1" />
         </span>
         <p className="mb-2 leading-normal text-muted-foreground text-center">
