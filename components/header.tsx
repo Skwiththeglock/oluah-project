@@ -16,7 +16,7 @@ export async function Header() {
         <Link href="/">
           <span className="text-lg flex items-center">
             {/* <span className="text-lg font-semibold">Weather</span> */}
-            Book Recommendation System
+            Book Recommender System
             <IconSparkles className="inline mr-0 ml-0.5 w-4 sm:w-5 mb-1" />
             <span className="text-xs ml-2 font-normal text-muted-foreground">
               By Ezeozue Chidinma Ifeoma for my final year project
